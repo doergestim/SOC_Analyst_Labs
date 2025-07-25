@@ -1,5 +1,5 @@
 
-# Scripting for SOC Tasks notes/overview
+# Scripting for SOC Tasks 
 
 - Automate repetitive tasks
 
@@ -101,17 +101,6 @@ Explanation:
 - it filters Windows Security logs for failed logins
 - after that, it outputs results to a CSV file for further analysis
 
----
-
-I also worked on basic scripting skills and I made 2 scripts:
-
-- The first script is [failed_logins_extractor.py](./failed_logins_extractor.py). It works only if the specified parameters are changed to the actual row names.
-
-- The second script is [AbuseIPDB.py](./AbuseIPDB.py). I tried it and it works perfectly, as you can see in the screenshot below. The only thing that needs to be changed is the API.
-
-![ip script test](https://i.ibb.co/Qv7PGf51/Screenshot-2025-07-17-174359.png)
-
----
 
 resources:
 

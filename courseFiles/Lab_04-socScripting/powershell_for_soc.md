@@ -1,5 +1,3 @@
-I haven't used powershell much, here is what commands I've learned so far, beside the basic ones I already knew.
-
 
 # 1. System Information Gathering
 
