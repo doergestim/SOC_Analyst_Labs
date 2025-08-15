@@ -21,7 +21,7 @@
 ### [Security Tools & Foundational Platforms](/courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md)
 
 - [Intro](courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md#intro)
-- [LimaCharlie](courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md#limacharlie)
+- [LimaCharlie Hands-On](courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md#limacharlie-hands-on)
 - [Elastic SIEM Hands-On](courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md#elastic-siem-hands-on)
 - [Viewing Alerts & Logs](courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md#viewing-alerts--logs)
 - [Writing & Modifying Basic Detection Rules](courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md#writing--modifying-basic-detection-rules)
