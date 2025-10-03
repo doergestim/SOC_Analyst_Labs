@@ -176,6 +176,8 @@ sudo apt update
 sudo apt install python3-venv
 ```
 
+- When you are prompted with the blue backround and options, just press **Tab** to move over to `ok` and press **Enter**
+
 ---
 
 - In case that doesn't work do this then continue
