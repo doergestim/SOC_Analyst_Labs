@@ -6,6 +6,10 @@
 
 - First things first navigate to hayabusa at `/home/ubuntu/labs/hayabusa_lab/hayabusa/target/release`
 
+```bash
+cd /home/ubuntu/labs/hayabusa_lab/hayabusa/target/release
+```
+
 - To start off we need to make sure we have the detection rules of hayabusa
 
 ```bash
