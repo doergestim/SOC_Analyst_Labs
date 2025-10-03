@@ -1,4 +1,4 @@
-# For the Windows VM
+<img width="392" height="46" alt="image" src="https://github.com/user-attachments/assets/60b53883-5c60-4d13-af98-9732512626af" /><img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/17d0638f-c54a-4205-965c-9bc756ce25e9" /># For the Windows VM
 
 ## The objective for this lab is to
 - Understand how SQL Injection works
@@ -9,7 +9,7 @@
 ## Setup
 - Open a terminal
 
-
+<img width="43" height="42" alt="image" src="https://github.com/user-attachments/assets/68adb9bd-73ab-4471-b6da-1c8dfab3667f" />
 
 - cd to Desktop and make the lab folder
 ```bash
