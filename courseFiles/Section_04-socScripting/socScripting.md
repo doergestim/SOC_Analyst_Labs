@@ -111,7 +111,7 @@ Also check out [Powershell for SOC](/courseFiles/Lab_04-socScripting/powershell_
 
 [Lab 2](/courseFiles/Section_04-socScripting/lab2_collect_system_info.md)
 
-[Lab 2 Solution](/courseFiles/Lab_04-socScripting/lab2_solution_steb_by_step.md)
+[Lab 2 Solution](/courseFiles/Section_04-socScripting/lab2_solution_steb_by_step.md)
 
 [Scapy Documentation part 1](/courseFiles/tools/scapy_documentation_part1.md)
 
