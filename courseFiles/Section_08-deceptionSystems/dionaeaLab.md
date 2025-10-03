@@ -6,6 +6,8 @@
 - Understand its modular architecture
 
 # Let's start
+- Open up a terminal if you are not using **SSH**, else
+
  - To start it up:
 ```bash
 sudo dionaea
