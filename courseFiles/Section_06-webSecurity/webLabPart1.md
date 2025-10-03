@@ -1,4 +1,4 @@
-# For the Windows VM
+# For the Windows/Kali VM
 
 ## The objective for this lab is to
 - Understand how SQL Injection works
@@ -7,7 +7,7 @@
 - See the difference between vulnerable and secure code
 
 ## Setup
-- Open a terminal
+- Open a kali terminal
 
 <img width="82" height="94" alt="image" src="https://github.com/user-attachments/assets/0c25ea24-4d61-4016-b725-f9b010defc0f" />
 
