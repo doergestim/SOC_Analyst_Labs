@@ -11,6 +11,10 @@
 
 <img width="82" height="94" alt="image" src="https://github.com/user-attachments/assets/0c25ea24-4d61-4016-b725-f9b010defc0f" />
 
+- Click **Accept**
+
+<img width="514" height="382" alt="image" src="https://github.com/user-attachments/assets/f20d89b3-0d56-4cd2-8db0-fa9d8dfd686c" />
+
 
 - cd to Desktop and make the lab folder
 ```bash
