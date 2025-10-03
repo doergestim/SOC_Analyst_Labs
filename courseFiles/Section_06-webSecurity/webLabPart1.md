@@ -9,7 +9,8 @@
 ## Setup
 - Open a terminal
 
-<img width="43" height="42" alt="image" src="https://github.com/user-attachments/assets/68adb9bd-73ab-4471-b6da-1c8dfab3667f" />
+<img width="82" height="94" alt="image" src="https://github.com/user-attachments/assets/0c25ea24-4d61-4016-b725-f9b010defc0f" />
+
 
 - cd to Desktop and make the lab folder
 ```bash
