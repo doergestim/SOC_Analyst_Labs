@@ -7,6 +7,10 @@
 - See the difference between vulnerable and secure code
 
 ## Setup
+- Open a terminal
+
+
+
 - cd to Desktop and make the lab folder
 ```bash
 cd ~/Desktop
