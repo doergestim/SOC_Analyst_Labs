@@ -57,6 +57,15 @@ Important observations:
 >
 >(include all rules)
 
+- Maks sure to select the 5th options using arrows **Up** and **Down** and press **Enter** when the 5th option is highlighted
+
+<img width="885" height="177" alt="image" src="https://github.com/user-attachments/assets/afb14547-c35a-49f2-a9ae-59a15ada53d5" />
+
+- Also select everything that is selected down below
+
+<img width="410" height="92" alt="image" src="https://github.com/user-attachments/assets/841f5f45-4e9e-4089-bf4e-0f2da847f2d5" />
+
+
 <img width="1175" height="859" alt="image" src="https://github.com/user-attachments/assets/4d4748ed-6645-4c22-ae13-71cd4ad79be4" />
 
 Immediately we can see some really telling information, we got hits on 50 events(8.85%), 11 of them being critical alerts of a known backdoor and ransomware
