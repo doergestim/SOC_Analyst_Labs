@@ -156,7 +156,6 @@ Return to your browser. You should see a confirmation message:
 
 - [Continue to Part 2 of the Lab](./lima_charlie_lab_part2.md)
 
-- Source: https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/limacharlie/limacharlie.md
 
 >[!IMPORTANT]
 >
