@@ -63,6 +63,11 @@ mv ./ssh-22.yaml ~
 nano ./ssh-2222.yaml
 ```
  - Add your key with double quotes around it like `OPENAI_API_KEY: "your_api_key_here"`
+
+<img width="329" height="26" alt="image" src="https://github.com/user-attachments/assets/97cf551d-f9c8-4d7a-b575-b423e8c1b74e" />
+
+ - Save and leave the editor with `Ctrl + X` + `Y` + `Enter`
+
 ```bash
 cd /opt/beelzebub/
 ```
