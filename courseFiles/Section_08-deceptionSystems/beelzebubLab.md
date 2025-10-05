@@ -16,6 +16,11 @@ apt update && apt upgrade -y
 ```bash
 systemctl enable --now docker
 ```
+- Enter the password for all the **authentications**
+
+<img width="1066" height="521" alt="image" src="https://github.com/user-attachments/assets/86180983-e24d-496d-80e1-a4d9eac995ac" />
+
+
 ```bash
 cd /opt
 ```
