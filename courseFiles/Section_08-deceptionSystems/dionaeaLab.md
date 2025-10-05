@@ -37,6 +37,9 @@ curl -LO https://github.com/brannondorsey/naive-hashcat/releases/download/data/r
 ```bash
 sudo tail -f /usr/local/var/log/dionaea/dionaea.log
 ```
+
+- Then on the first terminal
+
 ```bash
 hydra -l admin -P rockyou.txt localhost ftp -V
 ```
