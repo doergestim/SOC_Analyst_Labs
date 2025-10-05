@@ -33,6 +33,10 @@ git clone https://github.com/mariocandela/beelzebub.git
 - Make sure you are into **/opt/beelzebub/**
 
 ```bash
+cd /opt/beelzebub/
+```
+
+```bash
 nano docker-compose.yml
 ```
  - Put your key here
