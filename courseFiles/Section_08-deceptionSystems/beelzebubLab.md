@@ -51,7 +51,7 @@ nano docker-compose.yml
 - Also comment the **Default SSH Mapping**(ssh 22 port) by putting a `#` anywhere before it in the same line
 <img width="176" height="81" alt="image" src="https://github.com/user-attachments/assets/f02190d4-36ec-4638-8817-aae8a33ece43" />
 
-- Leave the editor with `Ctrl + X` + `Y` + `Enter`
+- Save and leave the editor with `Ctrl + X` + `Y` + `Enter`
 
 ```bash
 cd configurations/services/
