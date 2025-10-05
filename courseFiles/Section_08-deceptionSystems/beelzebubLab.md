@@ -44,7 +44,7 @@ cd /opt/beelzebub/
 ```bash
 nano docker-compose.yml
 ```
- - Put your key here
+ - Put your key here at `OPEN_AI_SECRET_KEY: `
 <img width="295" height="53" alt="image" src="https://github.com/user-attachments/assets/eca9345f-c69c-45f2-8a00-5cf389e42b3b" />
 
 
