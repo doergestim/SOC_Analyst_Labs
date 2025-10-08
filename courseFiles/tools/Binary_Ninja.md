@@ -46,15 +46,56 @@ It’s used in **malware analysis**, **vulnerability research**, and **reverse e
 
 - Open target binary.
 - Wait for auto-analysis to complete.
-- Switch to Graph View → observe the control flow.
+- Switch to Graph View -> observe the control flow.
 
+### Function Analysis
 
+- Functions are automatically detected
+- Hover over a function to view signature, cross-references, and comments
+- You can rename ( `N` ) or comment ( `;` ) to annotate analysis
 
+### Intermediate Languages (ILs)
 
+- **LLIL** (Low-Level IL): Close to assembly
+- **MLIL** (Medium-Level IL): Easier to read, removes most stack details
+- **HLIL** (High-Level IL): Pseudo-C style for logic tracing
 
+Switch using the toolbar or `View -> IL Mode`
 
+### Cross-References and Strings
 
+- `Strings View` -> find hardcoded **URLs**, **commands**, or malware **IOCs**
+- Right-click -> `Show References` to trace where they’re used
 
+### Symbol and Data Views
+
+- Explore imports/exports to identify API usage ( **WinExec**, **InternetOpenA** )
+- Spot suspicious or obfuscated functions
+
+## Scripting and Automation
+
+### Using the Built-in Python Console
+
+Access via View -> Console or **Ctrl+** **`**
+
+Example:
+```python
+for f in bv.functions:
+    print(f.name)
+```
+
+### Automating Analysis
+Sample script to list all network-related strings:
+
+```python
+from binaryninja import BinaryViewType
+
+bv = BinaryViewType.get_view_of_file("malware_sample.exe")
+
+for s in bv.strings:
+    if b"http" in s.value or b"socket" in s.value:
+        print(s)
+```
 
 
 
