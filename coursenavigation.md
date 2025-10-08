@@ -123,13 +123,13 @@
 - [Phishing Email Lab Solution](courseFiles/Section_10-emailFundamentals/phishing_email_lab_solution.md)
 
 ***
-### [Documentation & Case Notes](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md)
+### [Documentation & Case Notes](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md)
 
-- [Case Notes — The Analyst’s Daily Log](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#case-notes---the-analysts-daily-log)
-- [Writing an Incident Timeline](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-incident-timeline)
-- [Writing an Alert Triage Summary](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-alert-triage-summary)
-- [Real-World Examples](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#real-world-examples)
-- [Documentation Lab](courseFiles/Section_11-documentationAndCaseNotes/documentationLab.md)
+- [Case Notes — The Analyst’s Daily Log](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#case-notes---the-analysts-daily-log)
+- [Writing an Incident Timeline](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-incident-timeline)
+- [Writing an Alert Triage Summary](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-alert-triage-summary)
+- [Real-World Examples](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#real-world-examples)
+- [Documentation Lab](courseFiles/Section_12-documentationAndCaseNotes/documentationLab.md)
 
 ***
 ### [Soft Skills](courseFiles/Section_12-softSkills/softSkills.md)
