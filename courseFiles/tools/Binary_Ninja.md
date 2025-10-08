@@ -18,6 +18,40 @@ It’s used in **malware analysis**, **vulnerability research**, and **reverse e
 
 <img width="648" height="524" alt="image" src="https://github.com/user-attachments/assets/1520ddad-e371-4e7e-9ab5-e8fbf03ae725" />
 
+## Interface Walkthrough
+
+1. Main Layout
+
+- **Navigation Pane:** Functions, Symbols, Strings, Data Variables
+- **Graph View:** Control Flow Graph (CFG)
+- **Linear View:** Traditional disassembly
+- **Medium/High-Level IL Views:** Decompilation layers
+- **Log/Console Panel:** Analysis logs and Python scripting console
+
+<img width="303" height="674" alt="image" src="https://github.com/user-attachments/assets/7e1a021b-8dcd-405a-b7cd-5bc3a57439db" />
+
+
+2. Key Modes
+
+- **Hex View:** Raw binary data
+- **Disassembly View:** Instruction-level analysis
+- **IL Views:** Simplified logic representation (useful for understanding flow without deep ASM knowledge)
+
+<img width="892" height="596" alt="image" src="https://github.com/user-attachments/assets/f2c3319f-5a69-4a13-9251-2cc96101551e" />
+
+## Core Functionalities
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
