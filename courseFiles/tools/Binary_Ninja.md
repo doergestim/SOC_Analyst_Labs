@@ -30,6 +30,7 @@ It’s used in **malware analysis**, **vulnerability research**, and **reverse e
 
 <img width="303" height="674" alt="image" src="https://github.com/user-attachments/assets/7e1a021b-8dcd-405a-b7cd-5bc3a57439db" />
 
+<br><br>
 
 2. Key Modes
 
@@ -41,7 +42,11 @@ It’s used in **malware analysis**, **vulnerability research**, and **reverse e
 
 ## Core Functionalities
 
+### Loading and Analyzing a Binary
 
+- Open target binary.
+- Wait for auto-analysis to complete.
+- Switch to Graph View → observe the control flow.
 
 
 
