@@ -123,6 +123,9 @@
 - [Phishing Email Lab Solution](courseFiles/Section_10-emailFundamentals/phishing_email_lab_solution.md)
 
 ***
+### [Malware Forensics](courseFiles/Section_11-malwareForensics/malwareForensics.md)
+
+***
 ### [Documentation & Case Notes](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md)
 
 - [Case Notes — The Analyst’s Daily Log](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#case-notes---the-analysts-daily-log)
@@ -132,13 +135,13 @@
 - [Documentation Lab](courseFiles/Section_12-documentationAndCaseNotes/documentationLab.md)
 
 ***
-### [Soft Skills](courseFiles/Section_12-softSkills/softSkills.md)
+### [Soft Skills](courseFiles/Section_13-softSkills/softSkills.md)
 
-- [Ask Questions](courseFiles/Section_12-softSkills/softSkills.md#ask-questions)
-- [Explain Your Process](courseFiles/Section_12-softSkills/softSkills.md#explain-your-process)
-- [Start a Blog](courseFiles/Section_12-softSkills/softSkills.md#start-a-blog)
-- [Learn & Teach](courseFiles/Section_12-softSkills/softSkills.md#learn--teach)
-- [Final Exercise](courseFiles/Section_12-softSkills/softSkills.md#final-exercise)
+- [Ask Questions](courseFiles/Section_13-softSkills/softSkills.md#ask-questions)
+- [Explain Your Process](courseFiles/Section_13-softSkills/softSkills.md#explain-your-process)
+- [Start a Blog](courseFiles/Section_13-softSkills/softSkills.md#start-a-blog)
+- [Learn & Teach](courseFiles/Section_13-softSkills/softSkills.md#learn--teach)
+- [Final Exercise](courseFiles/Section_13-softSkills/softSkills.md#final-exercise)
 
 ***
 
