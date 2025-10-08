@@ -31,7 +31,7 @@ cd WebLab
 sudo nano app.py
 ```
 - Copy paste this code
-```bash
+```python
 from flask import Flask, request, render_template_string, g
 import sqlite3, os, datetime
 
