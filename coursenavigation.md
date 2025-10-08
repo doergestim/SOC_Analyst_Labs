@@ -131,7 +131,7 @@
 - [Safe Analysis Environment](courseFiles/Section_11-malwareForensics/malwareForensics.md#safe-analysis-environment)
 - [Static Analysis](courseFiles/Section_11-malwareForensics/malwareForensics.md#static-analysis)
 - [Dynamic Analysis](courseFiles/Section_11-malwareForensics/malwareForensics.md#dynamic-analysis)
-- [Behavioral Forensics and IOC(Indicators Of Compomise) Extraction](courseFiles/Section_11-malwareForensics/malwareForensics.md#behavioral-forensics-and-iocindicators-of-compromise-extraction)
+- [Behavioral Forensics and IOC(Indicators Of Compomise) Extraction](/courseFiles/Section_11-malwareForensics/malwareForensics.md#behavioral-forensics-and-iocindicators-of-compomise-extraction)
 - [Basic Unpacking and Deobfuscation](courseFiles/Section_11-malwareForensics/malwareForensics.md#basic-unpacking-and-deobfuscation)
 - [Reverse Engineering](courseFiles/Section_11-malwareForensics/malwareForensics.md#reverse-engineering)
 
