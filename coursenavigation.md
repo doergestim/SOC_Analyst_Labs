@@ -125,6 +125,16 @@
 ***
 ### [Malware Forensics](courseFiles/Section_11-malwareForensics/malwareForensics.md)
 
+- [Introduction](courseFiles/Section_11-malwareForensics/malwareForensics.md#introduction)
+- [The Malware Analysis Workflow](courseFiles/Section_11-malwareForensics/malwareForensics.md#the-malware-analysis-workflow)
+- [Malware Execution Chain](courseFiles/Section_11-malwareForensics/malwareForensics.md#malware-execution-chain)
+- [Safe Analysis Environment](courseFiles/Section_11-malwareForensics/malwareForensics.md#safe-analysis-environment)
+- [Static Analysis](courseFiles/Section_11-malwareForensics/malwareForensics.md#static-analysis)
+- [Dynamic Analysis](courseFiles/Section_11-malwareForensics/malwareForensics.md#dynamic-analysis)
+- [Behavioral Forensics and IOC(Indicators Of Compomise) Extraction](courseFiles/Section_11-malwareForensics/malwareForensics.md#behavioral-forensics-and-iocindicators-of-compromise-extraction)
+- [Basic Unpacking and Deobfuscation](courseFiles/Section_11-malwareForensics/malwareForensics.md#basic-unpacking-and-deobfuscation)
+- [Reverse Engineering](courseFiles/Section_11-malwareForensics/malwareForensics.md#reverse-engineering)
+
 ***
 ### [Documentation & Case Notes](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md)
 
