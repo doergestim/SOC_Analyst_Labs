@@ -26,7 +26,7 @@ wget https://www.winitor.com/tools/pestudio/current/pestudio.zip -O pestudio.zip
 
 2. **Extract it:**
 ```bash
-unzip pestudio.zip -d ~/pestudio
+unzip pestudio.zip -d ~
 ```
 
 3. **Launch using Wine:**
