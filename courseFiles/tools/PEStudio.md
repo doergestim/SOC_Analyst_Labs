@@ -20,28 +20,19 @@ sudo apt update && sudo apt install wine winetricks wget unzip -y
 ### 1.2 Install PEstudio
 
 1. **Download the latest version:**
-   ```bash
-   wget https://www.winitor.com/tools/pestudio/current/pestudio.zip -O pestudio.zip
-   ```
+```bash
+wget https://www.winitor.com/tools/pestudio/current/pestudio.zip -O pestudio.zip
+```
 
 2. **Extract it:**
-   ```bash
-   unzip pestudio.zip -d ~/pestudio
-   ```
+```bash
+unzip pestudio.zip -d ~/pestudio
+```
 
 3. **Launch using Wine:**
-   ```bash
-   wine ~/pestudio/pestudio.exe
-   ```
-
-4. (Optional) **Create a desktop shortcut:**
-   ```bash
-   echo -e '[Desktop Entry]
-Name=PEstudio
-Exec=wine ~/pestudio/pestudio.exe
-Type=Application
-Categories=Utility;' > ~/.local/share/applications/pestudio.desktop
-   ```
+```bash
+wine ~/pestudio/pestudio.exe
+```
 
 ---
 
