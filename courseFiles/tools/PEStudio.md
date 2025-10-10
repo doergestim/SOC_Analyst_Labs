@@ -1,5 +1,5 @@
 
-# PEstudio for Linux — Setup and Usage Guide
+# PEstudio for Linux
 
 ## Overview
 
@@ -7,9 +7,9 @@
 
 ---
 
-## 1. Setup on Linux
+## Setup on Linux
 
-### 1.1 Requirements
+### Requirements
 
 Before installation, ensure the following packages are installed:
 
@@ -17,7 +17,7 @@ Before installation, ensure the following packages are installed:
 sudo apt update && sudo apt install wine winetricks wget unzip -y
 ```
 
-### 1.2 Install PEstudio
+### Install PEstudio
 
 1. **Download the latest version:**
 ```bash
@@ -36,9 +36,9 @@ wine ~/pestudio/pestudio.exe
 
 ---
 
-## 2. Core Functionalities
+## Core Functionalities
 
-### 2.1 Static File Analysis
+### Static File Analysis
 
 - Open a PE file (e.g., `.exe`, `.dll`) in PEstudio.
 - It automatically scans and displays key sections like:
@@ -48,7 +48,7 @@ wine ~/pestudio/pestudio.exe
   - **Resources:** Embedded icons, manifests, and version info.
   - **Indicators:** Suspicious traits based on internal rules.
 
-### 2.2 Indicators and Scoring
+### Indicators and Scoring
 
 PEstudio assigns severity levels (0–3) based on heuristics such as:
 - Blacklisted API calls.
@@ -56,19 +56,19 @@ PEstudio assigns severity levels (0–3) based on heuristics such as:
 - Packed or encrypted sections.
 - Suspicious network-related strings.
 
-### 2.3 VirusTotal Integration
+### VirusTotal Integration
 
 If configured, PEstudio can query **VirusTotal** to check file reputation.
 - Go to `Options > VirusTotal > Enable`.
 - Insert your API key (from VirusTotal).
 - The “VirusTotal” tab will display aggregated detection results.
 
-### 2.4 Shellcode and Signature Detection
+### Shellcode and Signature Detection
 
 - Detects shellcode patterns using built-in YARA-like signatures.
 - Highlights anomalies in the `.text` section or imports.
 
-### 2.5 Command-Line Mode (Optional)
+### Command-Line Mode (Optional)
 
 For automation, PEstudio supports CLI mode through:
 ```bash
@@ -78,7 +78,7 @@ This allows integration with analysis pipelines or sandbox environments.
 
 ---
 
-## 3. Workflow Example
+## Workflow Example
 
 1. Copy a suspicious file to your Linux analysis directory.
 2. Launch PEstudio via Wine.
@@ -90,7 +90,7 @@ This allows integration with analysis pipelines or sandbox environments.
 
 ---
 
-## 4. Best Practices
+## Best Practices
 
 - Use **read-only** access when analyzing malware samples.
 - Keep **Wine sandboxed** (avoid running with elevated privileges).
@@ -99,7 +99,7 @@ This allows integration with analysis pipelines or sandbox environments.
 
 ---
 
-## 5. Troubleshooting
+## Troubleshooting
 
 | Issue | Fix |
 |-------|-----|
@@ -108,15 +108,9 @@ This allows integration with analysis pipelines or sandbox environments.
 | No network access for VirusTotal | Check Wine proxy or DNS config |
 | Crashes with large files | Increase Wine memory limit or analyze on Windows VM |
 
----
 
-## 6. References
-
-- Official site: [https://www.winitor.com/](https://www.winitor.com/)
-- VirusTotal API: [https://www.virustotal.com/](https://www.virustotal.com/)
-- Wine documentation: [https://wiki.winehq.org/](https://wiki.winehq.org/)
 
 ---
+[Back to the Section](/courseFiles/Section_11-malwareForensics/malwareForensics.md)
 
-### Author
-SOC Analyst Training Module – Core Tools Series
+
