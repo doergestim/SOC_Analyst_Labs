@@ -4,6 +4,8 @@
 
 It converts binary executables into human-readable assembly code, helping analysts understand program behavior without source code access
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1da33ccd-ae42-4e54-bb6d-38ed432fa5ce" />
+
 ---
 
 ## Setup
