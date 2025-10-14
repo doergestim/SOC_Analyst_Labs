@@ -79,18 +79,19 @@ It converts binary executables into human-readable assembly code, helping analys
 
 ## Useful Shortcuts
 
-  Action              Shortcut
-  ------------------- -------------
-  Graph/Linear View   Spacebar
-  Rename Function     N
-  Add Comment         ;
-  Jump to Address     G
-  View Strings        Shift + F12
-  View Imports        Shift + F11
-  Run Debugger        F9
-  Step Into           F7
-  Step Over           F8
-  Toggle Breakpoint   F2
+--------------------------------------
+|  Action             | Shortcut      |
+|  ------------------ | ------------- |
+|  Graph/Linear View  | Spacebar |
+|  Rename Function    | N |
+|  Add Comment        | ; |
+|  Jump to Address    | G |
+|  View Strings       | Shift + F12 |
+|  View Imports       | Shift + F11 |
+|  Run Debugger       | F9 |
+|  Step Into          | F7 |
+|  Step Over          | F8 |
+|  Toggle Breakpoint  | F2 |
 
 ------------------------------------------------------------------------
 
