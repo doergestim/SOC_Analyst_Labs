@@ -4,7 +4,7 @@
 
 It converts binary executables into human-readable assembly code, helping analysts understand program behavior without source code access
 
-------------------------------------------------------------------------
+---
 
 ## Setup
 
@@ -22,7 +22,7 @@ It converts binary executables into human-readable assembly code, helping analys
 
 5. Download it and launch IDA, when you upload a binary you will be prompted to select your license, select the **Hexclic File** that you just downloaded
 
-------------------------------------------------------------------------
+---
 
 ## Interface Overview
 
@@ -35,7 +35,7 @@ It converts binary executables into human-readable assembly code, helping analys
 -   **Strings View:** Extracted ASCII/Unicode strings for quick intel
 -   **Imports/Exports:** Shows linked libraries and external functions
 
-------------------------------------------------------------------------
+---
 
 ## 3. Core Functionalities
 
@@ -75,11 +75,10 @@ It converts binary executables into human-readable assembly code, helping analys
 -   View high-level pseudocode for easier logic analysis
 -   Rename variables/functions directly from decompiler view
 
-------------------------------------------------------------------------
+---
 
 ## Useful Shortcuts
 
---------------------------------------
 |  Action             | Shortcut      |
 |  ------------------ | ------------- |
 |  Graph/Linear View  | Spacebar |
@@ -93,7 +92,7 @@ It converts binary executables into human-readable assembly code, helping analys
 |  Step Over          | F8 |
 |  Toggle Breakpoint  | F2 |
 
-------------------------------------------------------------------------
+---
 
 ## Tips for Malware Analysis
 
