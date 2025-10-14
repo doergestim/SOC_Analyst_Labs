@@ -102,3 +102,5 @@ It converts binary executables into human-readable assembly code, helping analys
 -   Combine IDA with tools like **x64dbg**, **ProcMon**, **Wireshark**, and **Ghidra** for better context
 
 
+---
+[Back to the Section](/courseFiles/Section_11-malwareForensics/malwareForensics.md)
