@@ -6,27 +6,18 @@ It converts binary executables into human-readable assembly code, helping analys
 
 ------------------------------------------------------------------------
 
-## 1. Installation & Setup
-
-### **Requirements**
-
--   OS: Windows, Linux, or macOS
--   RAM: Minimum 4 GB (Recommended: 8 GB+)
--   Disk Space: \~1 GB
--   License: Paid (with Free version available as IDA Free)
+## Setup
 
 ### **Installation Steps**
 
-1.  Download IDA Pro or IDA Free from [Hex-Rays official
-    website](https://hex-rays.com/ida-pro/).
-2.  Install the package following the platform-specific installer.
-3.  (Optional) Configure license via the **license.key** file or online
-    activation.
-4.  Verify installation by launching IDA and loading a sample binary.
+1.  Download IDA Pro or IDA Free from [Hex-Rays officialwebsite](https://hex-rays.com/ida-pro/)
+2.  Install the package following the platform-specific installer
+3.  (Optional) Configure license via the **license.key** file or online activation
+4.  Verify installation by launching IDA and loading a sample binary
 
 ------------------------------------------------------------------------
 
-## 2. Interface Overview
+## Interface Overview
 
 ### **Main Components**
 
