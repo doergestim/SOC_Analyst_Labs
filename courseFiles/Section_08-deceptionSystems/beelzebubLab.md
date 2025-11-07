@@ -16,6 +16,11 @@ apt update && apt upgrade -y
 ```bash
 systemctl enable --now docker
 ```
+- Enter the password for all the **authentications**
+
+<img width="1066" height="521" alt="image" src="https://github.com/user-attachments/assets/86180983-e24d-496d-80e1-a4d9eac995ac" />
+
+
 ```bash
 cd /opt
 ```
@@ -33,14 +38,20 @@ git clone https://github.com/mariocandela/beelzebub.git
 - Make sure you are into **/opt/beelzebub/**
 
 ```bash
+cd /opt/beelzebub/
+```
+
+```bash
 nano docker-compose.yml
 ```
- - Put your key here
+ - Put your key here at `OPEN_AI_SECRET_KEY: `
 <img width="295" height="53" alt="image" src="https://github.com/user-attachments/assets/eca9345f-c69c-45f2-8a00-5cf389e42b3b" />
 
 
-- Also comment the **Default SSH Mapping**(ssh 22 port)
+- Also comment the **Default SSH Mapping**(ssh 22 port) by putting a `#` anywhere before it in the same line
 <img width="176" height="81" alt="image" src="https://github.com/user-attachments/assets/f02190d4-36ec-4638-8817-aae8a33ece43" />
+
+- Save and leave the editor with `Ctrl + X` + `Y` + `Enter`
 
 ```bash
 cd configurations/services/
@@ -52,6 +63,11 @@ mv ./ssh-22.yaml ~
 nano ./ssh-2222.yaml
 ```
  - Add your key with double quotes around it like `OPENAI_API_KEY: "your_api_key_here"`
+
+<img width="329" height="26" alt="image" src="https://github.com/user-attachments/assets/97cf551d-f9c8-4d7a-b575-b423e8c1b74e" />
+
+ - Save and leave the editor with `Ctrl + X` + `Y` + `Enter`
+
 ```bash
 cd /opt/beelzebub/
 ```

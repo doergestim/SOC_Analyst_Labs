@@ -200,7 +200,7 @@ Check out the [phishing_email_lab.md](./phishing_email_lab.md) and also the [sol
 ***
 <b><i>Continuing the course?</b>
 </br>
-[Click here for the Next Section](/courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md)</i>
+[Click here for the Next Section](/courseFiles/Section_11-malwareForensics/malwareForensics.md)</i>
 
 <b><i>Want to go back?</b>
 </br>

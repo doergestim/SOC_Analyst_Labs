@@ -105,13 +105,13 @@ Also check out [Powershell for SOC](/courseFiles/Lab_04-socScripting/powershell_
 ## Labs and Tools
 
 
-[Lab 1](/courseFiles/Lab_04-socScripting/lab1_detect_brute_force.md)
+[Lab 1](/courseFiles/Section_04-socScripting/lab1_detect_brute_force.md)
 
-[Lab 1 Solution](/courseFiles/Lab_04-socScripting/lab1_solution_step_by_step.md)
+[Lab 1 Solution](/courseFiles/Section_04-socScripting/lab1_solution_step_by_step.md)
 
-[Lab 2](/courseFiles/Lab_04-socScripting/lab2_collect_system_info.md)
+[Lab 2](/courseFiles/Section_04-socScripting/lab2_collect_system_info.md)
 
-[Lab 2 Solution](/courseFiles/Lab_04-socScripting/lab2_solution_steb_by_step.md)
+[Lab 2 Solution](/courseFiles/Section_04-socScripting/lab2_solution_steb_by_step.md)
 
 [Scapy Documentation part 1](/courseFiles/tools/scapy_documentation_part1.md)
 

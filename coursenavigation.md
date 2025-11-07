@@ -123,22 +123,35 @@
 - [Phishing Email Lab Solution](courseFiles/Section_10-emailFundamentals/phishing_email_lab_solution.md)
 
 ***
-### [Documentation & Case Notes](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md)
+### [Malware Forensics](courseFiles/Section_11-malwareForensics/malwareForensics.md)
 
-- [Case Notes — The Analyst’s Daily Log](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#case-notes---the-analysts-daily-log)
-- [Writing an Incident Timeline](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-incident-timeline)
-- [Writing an Alert Triage Summary](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-alert-triage-summary)
-- [Real-World Examples](courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md#real-world-examples)
-- [Documentation Lab](courseFiles/Section_11-documentationAndCaseNotes/documentationLab.md)
+- [Introduction](courseFiles/Section_11-malwareForensics/malwareForensics.md#introduction)
+- [The Malware Analysis Workflow](courseFiles/Section_11-malwareForensics/malwareForensics.md#the-malware-analysis-workflow)
+- [Malware Execution Chain](courseFiles/Section_11-malwareForensics/malwareForensics.md#malware-execution-chain)
+- [Safe Analysis Environment](courseFiles/Section_11-malwareForensics/malwareForensics.md#safe-analysis-environment)
+- [Static Analysis](courseFiles/Section_11-malwareForensics/malwareForensics.md#static-analysis)
+- [Dynamic Analysis](courseFiles/Section_11-malwareForensics/malwareForensics.md#dynamic-analysis)
+- [Behavioral Forensics and IOC(Indicators Of Compomise) Extraction](/courseFiles/Section_11-malwareForensics/malwareForensics.md#behavioral-forensics-and-iocindicators-of-compomise-extraction)
+- [Basic Unpacking and Deobfuscation](courseFiles/Section_11-malwareForensics/malwareForensics.md#basic-unpacking-and-deobfuscation)
+- [Reverse Engineering](courseFiles/Section_11-malwareForensics/malwareForensics.md#reverse-engineering)
 
 ***
-### [Soft Skills](courseFiles/Section_12-softSkills/softSkills.md)
+### [Documentation & Case Notes](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md)
 
-- [Ask Questions](courseFiles/Section_12-softSkills/softSkills.md#ask-questions)
-- [Explain Your Process](courseFiles/Section_12-softSkills/softSkills.md#explain-your-process)
-- [Start a Blog](courseFiles/Section_12-softSkills/softSkills.md#start-a-blog)
-- [Learn & Teach](courseFiles/Section_12-softSkills/softSkills.md#learn--teach)
-- [Final Exercise](courseFiles/Section_12-softSkills/softSkills.md#final-exercise)
+- [Case Notes — The Analyst’s Daily Log](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#case-notes---the-analysts-daily-log)
+- [Writing an Incident Timeline](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-incident-timeline)
+- [Writing an Alert Triage Summary](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#writing-an-alert-triage-summary)
+- [Real-World Examples](courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md#real-world-examples)
+- [Documentation Lab](courseFiles/Section_12-documentationAndCaseNotes/documentationLab.md)
+
+***
+### [Soft Skills](courseFiles/Section_13-softSkills/softSkills.md)
+
+- [Ask Questions](courseFiles/Section_13-softSkills/softSkills.md#ask-questions)
+- [Explain Your Process](courseFiles/Section_13-softSkills/softSkills.md#explain-your-process)
+- [Start a Blog](courseFiles/Section_13-softSkills/softSkills.md#start-a-blog)
+- [Learn & Teach](courseFiles/Section_13-softSkills/softSkills.md#learn--teach)
+- [Final Exercise](courseFiles/Section_13-softSkills/softSkills.md#final-exercise)
 
 ***
 

@@ -6,6 +6,10 @@
 
 - First things first navigate to hayabusa at `/home/ubuntu/labs/hayabusa_lab/hayabusa/target/release`
 
+```bash
+cd /home/ubuntu/labs/hayabusa_lab/hayabusa/target/release
+```
+
 - To start off we need to make sure we have the detection rules of hayabusa
 
 ```bash
@@ -20,10 +24,6 @@ Let's also get the logs that we will be working with and rename them if you don'
 curl -L -o sysmon.evtx https://raw.githubusercontent.com/sbousseaden/EVTX-ATTACK-SAMPLES/master/AutomatedTestingTools/PanacheSysmon_vs_AtomicRedTeam01.evtx
 ```
 
-
-```bash
-mv PanacheSysmon_vs_AtomicRedTeam01.evtx sysmon.evtx
-```
 
 - First thing we will do to start disecting the logs is to get some basic **metrics** to understand what system the logs came from, number of events, time range.
 
@@ -56,6 +56,15 @@ Important observations:
 >[!TIP]
 >
 >(include all rules)
+
+- Maks sure to select the 5th options using arrows **Up** and **Down** and press **Enter** when the 5th option is highlighted
+
+<img width="885" height="177" alt="image" src="https://github.com/user-attachments/assets/afb14547-c35a-49f2-a9ae-59a15ada53d5" />
+
+- Also select everything that is selected down below
+
+<img width="410" height="92" alt="image" src="https://github.com/user-attachments/assets/841f5f45-4e9e-4089-bf4e-0f2da847f2d5" />
+
 
 <img width="1175" height="859" alt="image" src="https://github.com/user-attachments/assets/4d4748ed-6645-4c22-ae13-71cd4ad79be4" />
 

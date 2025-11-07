@@ -114,6 +114,6 @@ You learn a new Sigma rule format, don't keep it to yourself
 ***
 <b><i>Want to go back?</b>
 </br>
-[Click here for the Previous Section](/courseFiles/Section_11-documentationAndCaseNotes/documentationAndCaseNotes.md)
+[Click here for the Previous Section](/courseFiles/Section_12-documentationAndCaseNotes/documentationAndCaseNotes.md)
 
 <b><i>Looking for a different section? </b></br>[Back to Section Directory](/coursenavigation.md)</i>

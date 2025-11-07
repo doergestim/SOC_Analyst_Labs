@@ -122,7 +122,7 @@ It provides infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), an
 - Role escalation activities
 - Access attempts to sensitive services like Key Vault or Storage
 
-For a deeper understanding, please follow the [Azure Lab](/courseFiles/Section_06-browserAndCloudSecurity/azureLab.md)
+For a deeper understanding, please follow the [Azure Lab](/courseFiles/Section_07-browserAndCloudSecurity/azureLab.md)
 
 ## M365 Audit Logs
 Microsoft 365 (M365) is a SaaS suite providing cloud-based email, collaboration, and storage tools used across enterprises

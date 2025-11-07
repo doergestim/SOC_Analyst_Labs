@@ -86,9 +86,6 @@ These are often indicators of **potential malicious activity** and warrant furth
 - Scalable for both small and large organizations  
 - Plugin system for extended automation and detection
 
----
-
-- Source: https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/LCmeetsAtomicRed/LCAR.md
 
 ---
 [Back to the Section](/courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md)
