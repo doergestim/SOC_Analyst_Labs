@@ -54,3 +54,5 @@ Continue with [Part 2](/courseFiles/Section_05-networkingAndTelemetry/rita_lab/r
 
 ---
 [Back to the section](/courseFiles/Section_05-networkingAndTelemetry/networkingAndTelemetry.md)
+
+b><i>Looking for a different lab? </br>[Lab Directory](/IntroClassFiles/navigation.md)</i></b>
