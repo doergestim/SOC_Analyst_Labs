@@ -49,5 +49,7 @@ rita view beacon_jitter
 
 Continue with [Part 3](/courseFiles/Section_05-networkingAndTelemetry/rita_lab/ritaLab3.md)
 
+b><i>Looking for a different lab? </br>[Lab Directory](/IntroClassFiles/navigation.md)</i></b>
+
 ---
 [Back to the section](/courseFiles/Section_05-networkingAndTelemetry/networkingAndTelemetry.md)
